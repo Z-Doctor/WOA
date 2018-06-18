@@ -1,6 +1,6 @@
 A list of skills concepts with basic data about the skills.
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=Test) `#f03c15`
 # Spells
 + A spell that draws entities in [Range] to the center of the spell and does [Damage]. 
        Free (= no cost)
